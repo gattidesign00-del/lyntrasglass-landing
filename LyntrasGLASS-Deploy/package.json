@@ -1,0 +1,20 @@
+{
+    "name": "lyntrasglass",
+    "version": "1.0.0",
+    "description": "نظارات ذكية بالذكاء الاصطناعي - AI-powered smart glasses for GCC market",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx serve .",
+        "deploy": "vercel --prod"
+    },
+    "keywords": [
+        "smart-glasses",
+        "ai",
+        "translation",
+        "arabic",
+        "rtl",
+        "kuwait"
+    ],
+    "author": "LyntrasGLASS",
+    "license": "MIT"
+}
